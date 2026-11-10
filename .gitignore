@@ -1,0 +1,12 @@
+# local notes and source PDFs (do not publish copyrighted papers)
+papers/
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
